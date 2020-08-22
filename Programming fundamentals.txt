@@ -1,3 +1,7 @@
 Objects
 Functions
 Variables
+
+Loops
+for loop
+while loop
